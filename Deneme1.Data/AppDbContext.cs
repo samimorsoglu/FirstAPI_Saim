@@ -17,7 +17,6 @@ namespace Deneme1.Data
         public DbSet<Student> Students { get; set; }
         public DbSet<Personel> Personels { get; set; }
 
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             ///modelBuilder.Entity<Employee>().HasKey(x => x.Id);  
