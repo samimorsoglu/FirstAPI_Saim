@@ -1,8 +1,3 @@
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.csproj.AssemblyReference.cache
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.AssemblyInfoInputs.cache
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.AssemblyInfo.cs
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.csproj.CoreCompileInputs.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Data.deps.json
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Data.runtimeconfig.json
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Data.runtimeconfig.dev.json
@@ -11,6 +6,11 @@ C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\ref\Deneme1.
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Data.pdb
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Core.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\bin\Debug\net5.0\Deneme1.Core.pdb
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.csproj.CoreCompileInputs.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.csproj.CopyComplete
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\Deneme1.Data.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Data\obj\Debug\net5.0\ref\Deneme1.Data.dll

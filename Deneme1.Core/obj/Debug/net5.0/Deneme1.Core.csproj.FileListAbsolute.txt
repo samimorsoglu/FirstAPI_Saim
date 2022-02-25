@@ -2,7 +2,6 @@ C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\bin\Debug\net5.0\Deneme1.Core
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\bin\Debug\net5.0\Deneme1.Core.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\bin\Debug\net5.0\ref\Deneme1.Core.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\bin\Debug\net5.0\Deneme1.Core.pdb
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\obj\Debug\net5.0\Deneme1.Core.csproj.AssemblyReference.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\obj\Debug\net5.0\Deneme1.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\obj\Debug\net5.0\Deneme1.Core.AssemblyInfoInputs.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Core\obj\Debug\net5.0\Deneme1.Core.AssemblyInfo.cs

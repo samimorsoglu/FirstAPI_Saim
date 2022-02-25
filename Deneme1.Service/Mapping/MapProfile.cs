@@ -14,6 +14,7 @@ namespace Deneme1.Service.Mapping
         public MapProfile()
         {
             CreateMap<Student, StudentDto>().ReverseMap();
+            CreateMap<Student, StudentUpdateDto>().ReverseMap();
             CreateMap<Personel, PersonelDto>().ReverseMap();
         }
     }

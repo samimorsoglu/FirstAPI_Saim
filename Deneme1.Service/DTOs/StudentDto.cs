@@ -11,5 +11,6 @@ namespace Deneme1.Service.DTOs
         public string Name { get; set; }
         public string Lastname { get; set; }
         public string StudentNumber { get; set; }
+        public bool IsGraduate { get; set; }
     }
 }

@@ -1,7 +1,3 @@
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.AssemblyInfoInputs.cache
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.AssemblyInfo.cs
-C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.csproj.CoreCompileInputs.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\Deneme1.Service.deps.json
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\Deneme1.Service.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\ref\Deneme1.Service.dll
@@ -11,6 +7,10 @@ C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\Deneme1.D
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\Deneme1.Core.pdb
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\bin\Debug\net5.0\Deneme1.Data.pdb
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.csproj.CoreCompileInputs.cache
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.csproj.CopyComplete
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\Deneme1.Service.dll
 C:\Users\MONSTER\source\repos\Deneme1\Deneme1.Service\obj\Debug\net5.0\ref\Deneme1.Service.dll
