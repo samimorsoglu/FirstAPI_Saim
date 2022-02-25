@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Deneme1.Core\Deneme1.Core.csproj" />
     <ProjectReference Include="..\Deneme1.Data\Deneme1.Data.csproj" />
   </ItemGroup>

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uBOETXVDSMHeSr1i6sso1TR5rlIK0aR4VoThYNOulIyojKQTE/1CcOVvSK0+flUzkWWjEeTWR8PuMDNl3TmPEg==",
+  "dgSpecHash": "HDwRXmtYRq0WRIcNVlFnSkZva+mFzWWTU/HOEeg5M4bKRVV4mB0/oxXmOdPywoL6IhM3X+zjvnHyvr7OV+cZNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MONSTER\\source\\repos\\Deneme1\\Deneme1.API\\Deneme1.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MONSTER\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\MONSTER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MONSTER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\MONSTER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
